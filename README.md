@@ -3,3 +3,4 @@
 
 | Motivation | Early detection of brain tumor is decisive in getting a positive prognosis. MRI images is a feasible means for early detection of Brain tumor. 
 
+| Tags | K-means clustering, GLCM, ANN, Watershed Transformation, SVM classifier.
