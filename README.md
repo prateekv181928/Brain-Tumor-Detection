@@ -6,7 +6,6 @@ Using segmented MRI brain images, perform feature extraction to generate GLCM (g
 
 Role :
 
-• Studied various white papers and did literary survey on the topic.
 • Performed Pre-Processing
 ▪ RGB to Gray to Binary
 ▪ Image Resizing
